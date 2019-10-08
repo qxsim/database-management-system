@@ -2,8 +2,8 @@ import java.sql.*;
 
 public class Database {
 	
-	private static String username = "qxn635";
-	private static String password = "pl1tz28lzn";
+	private static String username = "HIDDEN";
+	private static String password = "HIDDEN";
 	
 	
 	public static void main(String[] args) {
